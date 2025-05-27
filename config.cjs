@@ -20,9 +20,7 @@ const config = {
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : true, 
   ANTI_WORD: process.env.ANTI_WORD !== undefined ? process.env.ANTI_WORD === 'false' : true,
   MODE: process.env.MODE || "private",
-  OWNER_NAME: process.env.OWNER_NAME || "ᵖᵒʷᵉʳᵉᵈ ᵇʸ 𝐷𝐵𝑌✯✎≀
-
-",
+  OWNER_NAME: process.env.OWNER_NAME || "𝐷𝐵𝑌✯",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "263789085533",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'false' : false, 
