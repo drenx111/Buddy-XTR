@@ -8,7 +8,7 @@
   "stack": "container",
   "env": { 
     "SESSION_ID": {
-      "description": "Buddy;;;pAABRDKa#JEOcngZlh3DU1fehN2U3zbwAPBiMK-GbivOLMfZkNrU",
+      "description": "Buddy;;;RMAS2TIL#VH0F_p8RwFmL1coOcQITdrVwzXbwEMgoeayB198KaEw",
       "required": true,
       "value": "true"
     },
@@ -25,12 +25,10 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": false,
-      "value": "ᵖᵒʷᵉʳᵉᵈ ᵇʸ 𝐷𝐵𝑌✯✎≀
-
-"
+      "value": "DRENX"
     },
     "OWNER_NUMBER": {
-      "description": "263789085533",
+      "description": "27660389430",
       "required": true,
       "value": "true"
     },
